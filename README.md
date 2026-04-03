@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥳 PrintCode
+# 🥳 Print code in 1 click
 
 ### Fully automate printing code with your own format — directly from VS Code
 
