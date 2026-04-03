@@ -17,7 +17,7 @@ One click. Beautiful output. Zero config needed. Local and private.
 
 | Feature | Description |
 |:--------|:------------|
-| 🥳 **Automate Printing** | Print your code in just 2 clicks |
+| 🥳 **Automate Printing** | Print your code in just 1 click |
 | 😶‍🌫️ **Full local, full private** | All processing is done locally, ensuring your code never leaves your machine |
 | 📄 **Print Current Document** | Print the entire active file with full syntax highlighting |
 | ✂️ **Print Selected Lines** | Print only the code you've selected |
