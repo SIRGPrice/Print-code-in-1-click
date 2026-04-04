@@ -106,19 +106,6 @@ Customize PrintCode through the settings menu or VS Code settings:
 
 ---
 
-## 📝 Future roadmap
-
-### Support for everyone, forever
-
-### Premium features (coming soon at $1 per month)
-
-- Extension MCP tools for AI agentic assistants
-- Full customization of print layout and styles (fonts, colors, themes, formats etc.)
-- Advanced layout options (margins, page size, format etc.)
-- Support for more languages and file types
-- Printing automations
-- Integration with other IDEs and code editors (JetBrains, Android Studio, MPLAB X and others)
-
 <div align="center">
 
 Made with 💙 by engineers
