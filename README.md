@@ -92,7 +92,7 @@ Customize PrintCode through the settings menu or VS Code settings:
 | `printCode.header` | `true` | Show / hide file header (name, path, date) |
 | `printCode.colorMode` | `"colored"` | `"colored"` — syntax colors · `"black"` — monochrome |
 
-> 💡 **Tip:** Access settings quickly by hovering over the status bar icon and clicking **Settings**.
+💡 **Tip:** Access settings quickly by hovering over the status bar icon and clicking **Settings**.
 
 ---
 
