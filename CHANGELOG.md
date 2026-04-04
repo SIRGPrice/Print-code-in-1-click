@@ -20,3 +20,14 @@
 - Updated dependencies and optimized performance
 - Improved visual design of webview print preview
 - Eliminated unnecessary extra preview under the windows print dialog
+
+# 📝 Future roadmap
+
+- Support for everyone, forever
+- Premium features (coming soon at $1 per month)
+- Extension MCP tools for AI agentic assistants
+- Full customization of print layout and styles (fonts, colors, themes, formats etc.)
+- Advanced layout options (margins, page size, format etc.)
+- Support for more languages and file types
+- Printing automations
+- Integration with other IDEs and code editors (JetBrains, Android Studio, MPLAB X and others)
