@@ -21,11 +21,13 @@
 - Improved visual design of webview print preview
 - Eliminated unnecessary extra preview under the windows print dialog
 
+## v0.0.7 - 💖 Sponsor based premium features
+
+- Extension MCP tools for AI agentic assistants (at $1 per month)
+- Support for everyone, forever
+
 # 📝 Future roadmap
 
-- Support for everyone, forever
-- Premium features (coming soon at $1 per month)
-  - Extension MCP tools for AI agentic assistants
 - Full customization of print layout and styles (fonts, colors, themes, formats etc.)
 - Advanced layout options (margins, page size, format etc.)
 - Support for more languages and file types
