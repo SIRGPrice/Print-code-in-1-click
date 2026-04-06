@@ -5,7 +5,7 @@
 ### Fully automate printing code with your own format — directly from VS Code
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-v1.85+-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Version](https://img.shields.io/badge/version-0.0.3-blue)](https://marketplace.visualstudio.com/)
+[![Version](https://img.shields.io/badge/version-0.0.7-blue)](https://marketplace.visualstudio.com/)
 
 One click. Beautiful output. Zero config needed. Local and private.
 
