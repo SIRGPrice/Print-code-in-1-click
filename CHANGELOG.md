@@ -25,7 +25,7 @@
 
 - Support for everyone, forever
 - Premium features (coming soon at $1 per month)
-- Extension MCP tools for AI agentic assistants
+  - Extension MCP tools for AI agentic assistants
 - Full customization of print layout and styles (fonts, colors, themes, formats etc.)
 - Advanced layout options (margins, page size, format etc.)
 - Support for more languages and file types
