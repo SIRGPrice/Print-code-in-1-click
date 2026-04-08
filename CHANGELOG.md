@@ -26,6 +26,11 @@
 - Extension MCP tools for AI agentic assistants (at $1 per month)
 - Support for everyone, forever
 
+## v0.0.8 - 🧐 Printing previews
+
+- Some low level optimizations
+- Support for preview of the printing results in VS Code
+
 # 📝 Future roadmap
 
 - Full customization of print layout and styles (fonts, colors, themes, formats etc.)
