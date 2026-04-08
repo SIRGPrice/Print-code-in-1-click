@@ -4,7 +4,7 @@
 
 ### Fully automate printing code with your own format — directly from VS Code
 
-TO INSTALL type Install from VSIX in the vs code top comand bar and select the downloaded .vsix on the explorer.
+[TO INSTALL](https://github.com/SIRGPrice/Print-code-in-1-click/releases/tag/V1) type _Install from VSIX_ in the vs code top comand bar and select the [downloaded .vsix](https://github.com/SIRGPrice/Print-code-in-1-click/releases/tag/V1) on the explorer.
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-v1.85+-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Version](https://img.shields.io/badge/version-0.0.7-blue)](https://marketplace.visualstudio.com/)
