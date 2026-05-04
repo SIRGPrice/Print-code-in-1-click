@@ -21,6 +21,7 @@ One click. Beautiful output. Zero config needed. Local and private.
 |:--------|:------------|
 | 🥳 **Automate Printing** | Print your code in just 1 click |
 | 😶‍🌫️ **Full local, full private** | All processing is done locally, ensuring your code never leaves your machine |
+| 🚀 **MCP** | Includes a mcp server compatible with vs code copilot chat, only for sponsors |
 | 📄 **Print Current Document** | Print the entire active file with full syntax highlighting |
 | ✂️ **Print Selected Lines** | Print only the code you've selected |
 | 📁 **Print Multiple Files** | Pick files from your workspace and print them all at once |
